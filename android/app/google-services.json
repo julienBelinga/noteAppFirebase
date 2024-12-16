@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99737734928",
+    "project_id": "tutofirebase-2c533",
+    "storage_bucket": "tutofirebase-2c533.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99737734928:android:a75f06ac0aa1971f2f5f95",
+        "android_client_info": {
+          "package_name": "com.tutoFirebase.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjpjdaqXELALsRgWPCFy87DDV74Y7nmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
